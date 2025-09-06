@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root,
+.app{
+  height: 100%;
+  width: 100%;
+  font-size: 0.875rem;
+  background-color: #6b7280;
+  color: #111827; 
+
+}
+
+
